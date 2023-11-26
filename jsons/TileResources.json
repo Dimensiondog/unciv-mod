@@ -217,8 +217,7 @@
 		"improvement": "Camp",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Generated on every [20] tiles <in [Tundra] Regions>",
-					"Generated on every [40] tiles <in [Forest] Regions>",
-					"Generated on every [30] tiles <in [Forest] Regions>",
+					"Generated on every [20] tiles <in [Forest] Regions>",
 					"Generated near City States with weight [15]"]
 	},
 	{
@@ -227,9 +226,9 @@
 		"terrainsCanBeFoundOn": ["Grassland","Flood plains"],
 		"gold": 2,
 		"improvement": "Plantation",
-		"uniques": ["Generated on every [20] tiles <in [Desert] Regions>",
-					"Generated on every [50] tiles <in [Hybrid] Regions>",
-					"Generated on every [40] tiles <in [Grassland] Regions>",
+		"uniques": ["Generated on every [35] tiles <in [Desert] Regions>",
+					"Generated on every [35] tiles <in [Hills] Regions>",
+					"Generated on every [35] tiles <in [Grassland] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Hill] tiles>"]
 	},
@@ -240,9 +239,9 @@
 		"gold": 2,
 		"improvement": "Plantation",
 		"uniques": [
-					"Generated on every [20] tiles <in [Jungle] Regions>",
-					"Generated on every [40] tiles <in [Hybrid] Regions>",
-					"Generated on every [30] tiles <in [Forest] Regions>",
+					"Generated on every [35] tiles <in [Coast] Regions>",
+					"Generated on every [35] tiles <in [Jungle] Regions>",
+					"Generated on every [35] tiles <in [Forest] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Hill] tiles>"]
 	},
@@ -252,10 +251,11 @@
 		"terrainsCanBeFoundOn": ["Jungle","Forest","Hill"],
 		"gold": 3,
 		"improvement": "Mine",
-		"uniques": ["Generated on every [40] tiles <in [Tundra] Regions>",
-					"Generated on every [20] tiles <in [Hill] Regions>",
+		"uniques": ["Generated on every [50] tiles <in [Tundra] Regions>",
+			"Generated on every [50] tiles <in [Jungle] Regions>",
+					"Generated on every [35] tiles <in [Hill] Regions>",
 					"Generated on every [35] tiles <in [Grassland] Regions>",
-					"Generated on every [40] tiles <in [Hybrid] Regions>",
+					"Generated on every [35] tiles <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"]
 	},
@@ -267,8 +267,6 @@
 		"improvement": "Mine",
 		"uniques": ["Generated on every [35] tiles <in [Desert] Regions>",
 					"Generated on every [20] tiles <in [Hill] Regions>",
-					"Generated on every [35] tiles <in [Plains] Regions>",
-					"Generated on every [40] tiles <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>"]
@@ -279,10 +277,9 @@
 		"terrainsCanBeFoundOn": ["Hill","Forest","Jungle","Tundra","Grassland"],
 		"gold": 2,
 		"improvement": "Mine",
-		"uniques": ["Generated on every [30] tiles <in [Tundra] Regions>",
-					"Generated on every [30] tiles <in [Hill] Regions>",
-					"Generated on every [30] tiles <in [Grassland] Regions>",
-					"Generated on every [40] tiles <in [Hybrid] Regions>",
+		"uniques": ["Generated on every [35] tiles <in [Tundra] Regions>",
+					"Generated on every [50] tiles <in [Hill] Regions>",
+					"Generated on every [35] tiles <in [Grassland] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>",
@@ -298,8 +295,7 @@
 		"gold": 2,
 		"improvement": "Plantation",
 		"uniques": ["Generated on every [20] tiles <in [Desert] Regions>",
-					"Generated on every [30] tiles <in [Plains] Regions>",
-					"Generated on every [50] tiles <in [Hybrid] Regions>",
+					"Generated on every [35] tiles <in [Plains] Regions>",
 					"Generated near City States with weight [15]"]
 	},
 	{
@@ -310,8 +306,6 @@
 		"improvement": "Camp",
 		"improvementStats": {"gold": 1},
 		"uniques": ["Generated on every [20] tiles <in [Plains] Regions>",
-					"Generated on every [45] tiles <in [Hybrid] Regions>",
-					"Generated on every [35] tiles <in [Jungle] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Grassland] [Fresh Water] tiles>"]
 	},
@@ -321,10 +315,8 @@
 		"terrainsCanBeFoundOn": ["Forest","Jungle"],
 		"gold": 2,
 		"improvement": "Plantation",
-		"uniques": ["Generated on every [45] tiles <in [Jungle] Regions>",
-					"Generated on every [30] tiles <in [Grassland] Regions>",
-					"Generated on every [20] tiles <in [Forest] Regions>",
-					"Generated on every [50] tiles <in [Hybrid] Regions>",
+		"uniques": ["Generated on every [35] tiles <in [Jungle] Regions>",
+					"Generated on every [20] tiles <in [Grassland] Regions>",
 					"Generated near City States with weight [15]",
 					"Doesn't generate naturally <in [Hill] tiles>"]
 	},
@@ -334,11 +326,9 @@
 		"terrainsCanBeFoundOn": ["Jungle","Forest","Marsh"],
 		"gold": 2,
 		"improvement": "Plantation",
-		"uniques": ["Generated with weight [30] <in [Jungle] Regions>",
-					"Generated on every [20] tiles <in [Jungle] Regions>",
-					"Generated on every [40] tiles <in [Forest] Regions>",
-					"Generated on every [40] tiles <in [Grassland] Regions>",
-					"Generated on every [50] tiles <in [Hybrid] Regions>",
+		"uniques": ["Generated with weight [20] <in [Jungle] Regions>",
+					"Generated on every [50] tiles <in [Coast] Regions>",
+					"Generated on every [50] tiles <in [Forest] Regions>",
 					"Generated near City States with weight [15]",
 					"Doesn't generate naturally <in [Hill] tiles>",
 					"Doesn't generate naturally <in [Tundra] [Forest] tiles>"]
@@ -349,8 +339,12 @@
 		"terrainsCanBeFoundOn": ["Grassland","Plains"],
 		"gold": 2,
 		"improvement": "Plantation",
-		"uniques": [		"Generated on every [30] tiles <in [Plains] Regions>",
-					"Generated on every [50] tiles <in [Hybrid] Regions>",
+		"uniques": [		"Generated on every [35] tiles <in [Plains] Regions>",
+					"Generated on every [35] tiles <in [Hybrid] Regions>",
+					"Generated on every [35] tiles <in [Hills] Regions>",
+					"Generated on every [50] tiles <in [Coast] Regions>",
+
+
 					"Generated near City States with weight [10]"]
 	},
 	{
@@ -360,10 +354,10 @@
 		// Technically sugar can also be placed on lowland jungles which then *turn* into marsh.
 		"gold": 2,
 		"improvement": "Plantation",
-		"uniques": [					"Generated on every [50] tiles <in [Jungle] Regions>",
-					"Generated on every [30] tiles <in [Desert] Regions>",
-					"Generated on every [45] tiles <in [Grassland] Regions>",
-					"Generated on every [60] tiles <in [Hybrid] Regions>",
+		"uniques": [					
+					"Generated on every [50] tiles <in [Desert] Regions>",
+					"Generated on every [50] tiles <in [Forest] Regions>",
+					"Generated on every [50] tiles <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Grassland] tiles> <in tiles without [Fresh Water]>"]
 	},
@@ -376,6 +370,9 @@
 		"improvementStats": {"production": 1},
 		"uniques": ["[+15]% Production when constructing [All] wonders [in all cities]",
 					"Special placement during map generation",
+					"Generated on every [35] tiles <in [Hybrid] Regions>",
+					"Generated on every [35] tiles <in [Forest] Regions>",
+
 					"Doesn't generate naturally <in [Grassland] [Fresh Water] tiles>"]
 	},
 	{
@@ -385,11 +382,10 @@
 		"food": 1,
 		"gold": 1,
 		"improvement": "Fishing Boats",
-		"uniques": [					"Generated on every [20] tiles <in [Tundra] Regions>",
+		"uniques": [					"Generated on every [35] tiles <in [Tundra] Regions>",
 
-					"Generated on every [50] tiles <in [Forest] Regions>",
+					"Generated on every [35] tiles <in [Coast] Regions>",
 					"Generated on every [50] tiles <in [Grassland] Regions>",
-					"Generated on every [50] tiles <in [Hybrid] Regions>",
 					"Generated near City States with weight [10]"]
 	},
 	{
@@ -398,14 +394,8 @@
 		"terrainsCanBeFoundOn": ["Coast"],
 		"gold": 2,
 		"improvement": "Fishing Boats",
-		"uniques": [					"Generated on every [35] tiles <in [Jungle] Regions>",
-
-					"Generated on every [50] tiles <in [Forest] Regions>",
-					"Generated on every [50] tiles <in [Desert] Regions>",
-					"Generated on every [40] tiles <in [Hills] Regions>",
-					"Generated on every [60] tiles <in [Plains] Regions>",
-					"Generated on every [60] tiles <in [Grassland] Regions>",
-					"Generated on every [70] tiles <in [Hybrid] Regions>",
+		"uniques": [					"Generated on every [35] tiles <in [Coast] Regions>",
+					"Generated on every [50] tiles <in [Plains] Regions>",
 					"Generated near City States with weight [15]"]
 	},
 	{
@@ -427,10 +417,9 @@
 		"food": 1,
 		"gold": 1,
 		"improvement": "Plantation",
-		"uniques": [					"Generated on every [40] tiles <in [Jungle] Regions>",
+		"uniques": [					"Generated on every [35] tiles <in [Jungle] Regions>",
 
-					"Generated on every [50] tiles <in [Forest] Regions>",
-					"Generated on every [60] tiles <in [Desert] Regions>",
+					"Generated on every [20] tiles <in [Hybrid] Regions>",
 					"Generated on every [30] tiles <in [Plains] Regions>",
 					"Generated near City States with weight [15]",
 					"Doesn't generate naturally <in [Tundra] tiles>"]
@@ -441,13 +430,9 @@
 		"terrainsCanBeFoundOn": ["Hill","Forest","Jungle","Grassland","Tundra"],
 		"gold": 2,
 		"improvement": "Mine",
-		"uniques": [					"Generated on every [30] tiles <in [Tundra] Regions>",
+		"uniques": [					"Generated on every [35] tiles <in [Tundra] Regions>",
 
-					"Generated on every [40] tiles <in [Forest] Regions>",
-					"Generated on every [40] tiles <in [Desert] Regions>",
-					"Generated on every [20] tiles <in [Hills] Regions>",
-					"Generated on every [40] tiles <in [Grassland] Regions>",
-					"Generated on every [35] tiles <in [Hybrid] Regions>",
+					"Generated on every [35] tiles <in [Plains] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Grassland] [Fresh Water] tiles>",
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>",
@@ -470,12 +455,11 @@
 		"food": 1,
 		"gold": 1,
 		"improvement": "Fishing Boats",
-		"uniques": [					"Generated on every [50] tiles <in [Tundra] Regions>",
+		"uniques": [					"Generated on every [20] tiles <in [Coast] Regions>",
 
-					"Generated on every [60] tiles <in [Jungle] Regions>",
-					"Generated on every [60] tiles <in [Forest] Regions>",
-					"Generated on every [30] tiles <in [Hills] Regions>",
-					"Generated on every [30] tiles <in [Hybrid] Regions>",
+					"Generated on every [35] tiles <in [Tundra] Regions>",
+					"Generated on every [35] tiles <in [Desert] Regions>",
+					"Generated on every [35] tiles <in [Hybrid] Regions>",
 					"Generated near City States with weight [15]"]
 	},
 	{
@@ -486,12 +470,9 @@
 		"food": 1,
 		"improvement": "Mine",
 		"improvementStats": {"food": 1},
-		"uniques": [					"Generated on every [60] tiles <in [Grassland] Regions>",
+		"uniques": [					
 
-					"Generated on every [40] tiles <in [Plains] Regions>",
-					"Generated on every [30] tiles <in [Desert] Regions>",
-					"Generated on every [50] tiles <in [Hills] Regions>",
-					"Generated on every [30] tiles <in [Hybrid] Regions>",
+					"Generated on every [35] tiles <in [Desert] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Forest] [Hill] tiles>"]
 	},
@@ -502,12 +483,11 @@
 		"gold": 2,
 		"improvement": "Camp",
 		"improvementStats": {"gold": 1},
-		"uniques": [					"Generated on every [30] tiles <in [Jungle] Regions>",
+		"uniques": [					"Generated on every [35] tiles <in [Jungle] Regions>",
 
-					"Generated on every [30] tiles <in [Forest] Regions>",
-					"Generated on every [50] tiles <in [Plains] Regions>",
+					"Generated on every [35] tiles <in [Forest] Regions>",
+					"Generated on every [50] tiles <in [Hill] Regions>",
 					"Generated on every [50] tiles <in [Grassland] Regions>",
-					"Generated on every [50] tiles <in [Hybrid] Regions>",
 					"Generated near City States with weight [15]",
 					"Doesn't generate naturally <in [Forest] [Hill] tiles>",
 					"Doesn't generate naturally <in [Tundra] [Forest] tiles>"]
