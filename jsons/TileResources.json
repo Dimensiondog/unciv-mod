@@ -239,7 +239,6 @@
 		"gold": 2,
 		"improvement": "Plantation",
 		"uniques": [
-					"Generated on every [35] tiles <in [Coast] Regions>",
 					"Generated on every [35] tiles <in [Jungle] Regions>",
 					"Generated on every [35] tiles <in [Forest] Regions>",
 					"Generated near City States with weight [10]",
