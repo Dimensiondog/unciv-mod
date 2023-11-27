@@ -227,7 +227,7 @@
 		"gold": 2,
 		"improvement": "Plantation",
 		"uniques": ["Generated on every [35] tiles <in [Desert] Regions>",
-					"Generated on every [35] tiles <in [Hills] Regions>",
+					"Generated on every [35] tiles <in [Hill] Regions>",
 					"Generated on every [35] tiles <in [Grassland] Regions>",
 					"Generated near City States with weight [10]",
 					"Doesn't generate naturally <in [Hill] tiles>"]
@@ -327,7 +327,6 @@
 		"gold": 2,
 		"improvement": "Plantation",
 		"uniques": ["Generated with weight [20] <in [Jungle] Regions>",
-					"Generated on every [50] tiles <in [Coast] Regions>",
 					"Generated on every [50] tiles <in [Forest] Regions>",
 					"Generated near City States with weight [15]",
 					"Doesn't generate naturally <in [Hill] tiles>",
@@ -341,8 +340,7 @@
 		"improvement": "Plantation",
 		"uniques": [		"Generated on every [35] tiles <in [Plains] Regions>",
 					"Generated on every [35] tiles <in [Hybrid] Regions>",
-					"Generated on every [35] tiles <in [Hills] Regions>",
-					"Generated on every [50] tiles <in [Coast] Regions>",
+					"Generated on every [35] tiles <in [Hill] Regions>",
 
 
 					"Generated near City States with weight [10]"]
@@ -384,7 +382,6 @@
 		"improvement": "Fishing Boats",
 		"uniques": [					"Generated on every [35] tiles <in [Tundra] Regions>",
 
-					"Generated on every [35] tiles <in [Coast] Regions>",
 					"Generated on every [50] tiles <in [Grassland] Regions>",
 					"Generated near City States with weight [10]"]
 	},
@@ -394,7 +391,7 @@
 		"terrainsCanBeFoundOn": ["Coast"],
 		"gold": 2,
 		"improvement": "Fishing Boats",
-		"uniques": [					"Generated on every [35] tiles <in [Coast] Regions>",
+		"uniques": [					
 					"Generated on every [50] tiles <in [Plains] Regions>",
 					"Generated near City States with weight [15]"]
 	},
@@ -455,7 +452,7 @@
 		"food": 1,
 		"gold": 1,
 		"improvement": "Fishing Boats",
-		"uniques": [					"Generated on every [20] tiles <in [Coast] Regions>",
+		"uniques": [					
 
 					"Generated on every [35] tiles <in [Tundra] Regions>",
 					"Generated on every [35] tiles <in [Desert] Regions>",
