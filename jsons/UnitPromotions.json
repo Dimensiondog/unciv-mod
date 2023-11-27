@@ -7,6 +7,10 @@
         "row": 0,
         "column": 0
     },
+	    {
+        "name": "Devout",
+        "uniques": ["Can Spread Religion <[1] additional time(s)>"]
+    },
 
 	// Ranged+Siege
 	{
