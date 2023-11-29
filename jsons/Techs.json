@@ -86,6 +86,11 @@
 				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
 			},
 			{
+				"name": "Irrigation",
+				"row": 8,
+				"prerequisites": ["Mining"],
+			},
+			{
 				"name": "Masonry",
 				"row": 9,
 				"prerequisites": ["Mining"],
@@ -123,13 +128,13 @@
 			{
 				"name": "Mathematics",
 				"row": 7,
-				"prerequisites": ["The Wheel"],
+				"prerequisites": ["The Wheel", "Irrigation"],
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{
 				"name": "Construction",
 				"row": 9,
-				"prerequisites": ["Masonry","The Wheel"],
+				"prerequisites": ["Masonry","Irrigation"],
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			}
 		]
