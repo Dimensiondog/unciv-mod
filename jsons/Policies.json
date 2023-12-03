@@ -326,6 +326,35 @@
                 "row": 3,
                 "column": 4
             },
+                        {
+                "name": "Vassals",
+                "requires": ["Cultural Dplomacy"],
+                "uniques": [
+                    "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
+                    "Military Units gifted from City-States start with [10] XP"
+                ],
+                "row": 4,
+                "column": 2
+            },
+                        {
+                "name": "Foreign Aid",
+                "requires": ["Educated Elite"],
+                "uniques": [
+                    "Gain [20] Influence with a [Civillian] gift to a City-State",
+                ],
+                "row": 4,
+                "column": 4
+            },
+                        {
+                "name": "Peace Keepers",
+                "requires": ["Foreign Aid","Vassals"],
+                "uniques": [
+                    "[+20]% Strength<in [City-State] tiles>",
+                    "City-State territory always counts as friendly territory"
+                ],
+                "row": 5,
+                "column": 3
+            },
             {
                 "name": "Patronage Complete",
                 "uniques": [
