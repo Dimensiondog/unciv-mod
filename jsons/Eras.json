@@ -171,13 +171,13 @@
     {
         "name": "Modern era",
         "researchAgreementCost": 350,
-        "startingSettlerCount": 3,
-        "startingWorkerCount": 2,
+        "startingSettlerCount": 5,
+        "startingWorkerCount": 5,
         "startingMilitaryUnitCount": 5,
         "startingMilitaryUnit": "Rifleman",
         "startingGold": 200,
         "startingCulture": 500,
-        "settlerPopulation": 3,
+        "settlerPopulation": 4,
         "settlerBuildings": ["Monument","Granary","Lighthouse","Market","Workshop","Amphitheater","Barracks","Library","Colosseum"],
         "startingObsoleteWonders": ["Temple of Artemis", "Stonehenge", "The Great Library", "Mausoleum of Halicarnassus", "The Pyramids", "Statue of Zeus",
             "The Great Lighthouse", "Hanging Gardens", "Terracotta Army", "The Oracle", "Petra", "Great Wall", "Colossus",
@@ -202,9 +202,11 @@
             "Militaristic": ["Provides military units every ≈[17] turns"]
         },
         "iconRGB": [33, 150, 243],
-        "uniques": ["May not generate great prophet equivalents naturally",
+        "uniques": ["[3] Movement<before [3] turns>",
+            "[4] Sight<before [25] turns>",
+            "[+100]% Production when constructing [All] buildings [in all cities]<before [25] turns>",
+            "[+100]% construction time for [All] improvements<before [25] turns>",
             "May buy [Great Prophet] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-            "Starting in this era disables religion",
             "Every major Civilization gains a spy once a civilization enters this era"
         ]
     },
