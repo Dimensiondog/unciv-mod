@@ -87,7 +87,7 @@
 		"hurryCostModifier": 0,
 		"uniques": [
 			"[+1 Food] from [Plantation] tiles [in this city]"],
-		"requiredTech": "Masonry"
+		"requiredTech": "Calendar"
 	},
 	{
 		"name": "Stonehenge",
