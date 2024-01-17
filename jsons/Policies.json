@@ -328,7 +328,7 @@
             },
                         {
                 "name": "Vassals",
-                "requires": ["Cultural Dplomacy"],
+                "requires": ["Cultural Diplomacy"],
                 "uniques": [
                     "Militaristic City-States grant units [2] times as fast when you are at war with a common nation",
                     "Military Units gifted from City-States start with [10] XP"
